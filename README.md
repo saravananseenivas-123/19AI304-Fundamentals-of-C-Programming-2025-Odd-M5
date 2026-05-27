@@ -1,4 +1,4 @@
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M5
+# 19AI304-Fundamentals-of-C-Programming-2026-Odd-M5
 # IAPR-5- Module 5 - FoC
 ## 9. Implementation of recursion.
 ## 10. Implementation of programs using pointer arithmetic.
@@ -86,8 +86,7 @@ void swapr(int *x, int *y) {
   Thus, the program was implemented and executed successfully, and the required output was obtained.
 
 
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M5
-# IAPR-5- Module 5 - FoC
+
 # Ex.No:22
   Implement a C program to generate the Fibonacci series using a recursive function. The program should accept a positive integer n and display the first n terms of the Fibonacci sequence.
 # Date : 19/05/2026
@@ -157,8 +156,7 @@ int fibo(int x) {
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
 
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M5
-# IAPR-5- Module 5 - FoC
+
 # Ex.No:23
    Implement a C program to demonstrate recursion by printing a sequence of even or odd numbers from a given lower limit to an upper limit, with each recursive call progressing by 2.
 # Date : 19/05/2026
@@ -240,8 +238,6 @@ void printEvenOdd(int cur, int limit) {
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
 
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M5
-# IAPR-5- Module 5 - FoC
 # Ex.No:24
    Implement a C program that dynamically allocates memory using calloc(), accepts integer inputs from the user, computes their sum, and prints the sum.
 # Date : 19/05/2026
@@ -320,8 +316,7 @@ int main() {
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
 
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M5
-# IAPR-5- Module 5 - FoC
+
 # Ex.No:25
    Implement a C program that reads a set of integers into an array and displays the array elements using a user-defined function.
 # Date : 19/05/2026
